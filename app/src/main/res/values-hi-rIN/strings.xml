@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">नींबू पानी अनुप्रयोग</string>
+    <string name="textview">पाठ दृश्य</string>
+    <string name="lemon_select">नींबू चुनने के लिए क्लिक करें!</string>
+    <string name="lemon_squeeze" translatable="false">नींबू का रस निकालने के लिए क्लिक करें!</string>
+    <string name="lemon_drink" translatable="false">अपना नींबू पानी पीने के लिए क्लिक करें!</string>
+    <string name="lemon_empty_glass" translatable="false">फिर से शुरू करने के लिए देर तक दबाएं!</string>
+</resources>
